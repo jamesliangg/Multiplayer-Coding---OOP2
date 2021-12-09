@@ -11,7 +11,9 @@ Convert your UML to Java code
 Part C
 Create a package called, “myPackage.superpackage”, for your Person class and the new classes you designed
 */
-//import created packages
+import myPackage.superpackage.HealthCard;
+import myPackage.superpackage.Person;
+import myPackage.superpackage.Professor;
 
 class Main {
   public static void main(String[] args) {

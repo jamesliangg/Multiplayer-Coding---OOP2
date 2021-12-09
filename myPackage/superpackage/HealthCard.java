@@ -1,3 +1,5 @@
+package myPackage.superpackage;
+
 public class HealthCard{
   private long healthCardNumber;
   private String versionCode;

@@ -1,3 +1,5 @@
+package myPackage.superpackage;
+
 public class Professor extends Person{
   private int professorID;
 
